@@ -13,3 +13,8 @@ One-liner summary/plot: You return to your hometown for a fresh start, but a voi
         - Unlocked memories (guide pictures of which their object has already been found)
     - UI can be polaroid themed / mixed with star theme
     - First polaroid you start with can be a picture of the starry sky (one you took with Lily)
+- Point-and-click gameplay
+    - Each object / item clicked on triggers unique dialogue
+    - Unique dialogue reveals more about the world (points for "how much you know"?)
+    - Each area has a unique guide character to have interactions with (Anyone from an old friend, a shopkeep who you used to buy from, or even a dog!)
+    - Helps with worldbuilding and showing Connor's character
