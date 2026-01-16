@@ -27,7 +27,9 @@ OW!
 As Connor goes to turn off his alarm, a voice speaks to him.
 
 **GUIDE CHARACTER**
-Good, you're up. By the way you were sleeping, I thought you were going to stay in bed all day.
+Good, you're up.
+
+# CUTSCENE END
 
 **CONNOR**
-Well, I was going to, but I'm certainly awake now.
+Good morning to you too.
