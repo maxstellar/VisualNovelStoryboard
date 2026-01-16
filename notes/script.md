@@ -5,10 +5,10 @@ Two shadowy figures loom over Connor, whose point of view has them facing away f
 Connor looks down, to see his own hands, blurry. (Hands may look wrong in lucid dreams.)
 
 **LILY'S FRIEND**
-So he's back in town?
+So... he's back in town?
 
 **DREAM LILY**
-For the next few days, I heard.
+He's been for the past few days, I heard.
 
 **LILY'S FRIEND**
 Well... what are you going to do?
