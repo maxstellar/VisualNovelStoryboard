@@ -17,3 +17,6 @@ Connor tries to subtly drop the news to Lily on the day he is supposed to leave,
 
 **Scene 5 (did not happen in reality? Maybe it did?):**
 Connor is about to leave, and the two see each other for the last time. They look at each other from afar, and run towards each other, with open arms, forgiving.
+
+# Future Story
+**THIS IS WHAT WE NEED TO WORK ON!**
