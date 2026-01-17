@@ -33,4 +33,4 @@ Good, you're up.
 # TUTORIAL AREA
 
 **CONNOR**
-Good morning to you too.
+Well, good morning to you too, [name].
