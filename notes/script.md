@@ -30,6 +30,7 @@ As Connor goes to turn off his alarm, a voice speaks to him.
 Good, you're up.
 
 # CUTSCENE END
+# TUTORIAL AREA
 
 **CONNOR**
 Good morning to you too.
