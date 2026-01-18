@@ -30,6 +30,10 @@ Connor is about to leave, and the two see each other for the last time. They loo
 
 ## Intro / Childhood Home
 - What is the motivation to explore this area? (it should be narrative)
+  - Grace is encouraging Connor to get out of bed and do something (clean the attic).
 - Who is the guide character + what is their relationship to Connor (and Lily)?
+  - Grace is the guide character. She's friends with Connor from uni, majored in engineering & minored in Theatre. Does not know Lily. Excuse for leaving is that she has a date with her girlfriend.
 - What sorts of objects can we find here?
+  - Boxes, rolled-up posters, old toys, school projects (solar system diorama), box of old polaroids
 - Will the objects serve any narrative purpose?
+  - Foreshadowing + details of Connor's youth. 

@@ -1,6 +1,6 @@
 ﻿# characters
 define c = Character("Connor", image="connor")
-define k = Character("Keith", image="keith")
+define g = Character("Grace", image="grace")
 
 transform same_transform(old, new):
     old
@@ -8,7 +8,7 @@ transform same_transform(old, new):
 
 define config.side_image_same_transform = same_transform
 
-image keith neutral = "keith_placeholder.jpg"
+image grace neutral = "keith_placeholder.jpg"
 
 image side connor happy = "connor_placeholder.png"
 
@@ -16,20 +16,20 @@ label start:
     # cutscene goes here
 
     scene bedroom_placeholder
-    show keith neutral at center
-    c happy "Well, good morning to you too, Keith."
+    show grace neutral at center
+    c happy "Well, good morning to you too, Grace."
     
-    "Keith begins to speak, but the sound of his voice is drowned out by a ringing in your ears."
+    "(Grace begins to speak, but the sound of her voice is drowned out by a ringing in my ears.)"
 
-    hide keith neutral with dissolve
+    hide grace neutral with dissolve
 
     scene black with dissolve
 
-    centered "REMEMBER." with dissolve
+    centered "{size=+40}REMEMBER." with dissolve
 
     scene bedroom_placeholder with dissolve
 
-    show keith neutral at center with dissolve
+    show grace neutral at center with dissolve
 
 
     
