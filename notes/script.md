@@ -68,7 +68,7 @@ Oh, so you can listen, and you've just been purposefully not doing so for the la
 #### [Space]
 
 **GUIDE CHARACTER**
-It's always about space with you. Is that what you were daydreaming about?
+It's always about space with you. Is that what you've been daydreaming about?
 
 #### CHOICE END
 

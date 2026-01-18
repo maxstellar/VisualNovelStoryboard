@@ -22,6 +22,12 @@ Connor is about to leave, and the two see each other for the last time. They loo
 **THIS IS WHAT WE NEED TO WORK ON!**
 
 # Areas
+## Template
+- What is the motivation to explore this area? (it should be narrative)
+- Who is the guide character + what is their relationship to Connor (and Lily)?
+- What sorts of objects can we find here?
+- Will the objects serve any narrative purpose?
+
 ## Intro / Childhood Home
 - What is the motivation to explore this area? (it should be narrative)
 - Who is the guide character + what is their relationship to Connor (and Lily)?
