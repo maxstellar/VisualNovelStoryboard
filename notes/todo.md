@@ -1,4 +1,4 @@
 - Write more exposition into intro sequence
     - Connor is coming back to his hometown
     - He has recently graduated from uni
-- Iron out this guide character for the tutorial
+- Work on finishing intro sequence code (w/ temp art)
