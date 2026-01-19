@@ -26,29 +26,29 @@ OW!
 
 As Connor goes to turn off his alarm, a voice speaks to him.
 
-**GUIDE CHARACTER**
+**GRACE**
 Good, you're up.
 
 # CUTSCENE END
 # INTRO SEQUENCE
 
 **CONNOR**
-Well- \*yawn* Good morning to you too, [name].
+Well- \*yawn* Good morning to you too, Grace.
 
-**NARRATOR**
-[name] begins to speak, but the sound of their voice is drowned out by a ringing in your ears.
+**CONNOR (V.O.)**
+(Grace begins to speak, but the sound of her voice is drowned out by a ringing in my ears.)
 
-A large piece of text reads "REMEMBER" on the screen as the background fades to black, and a voice can be heard saying, "Remember."
+*A large piece of text reads "REMEMBER" on the screen as the background fades to black, and a voice can be heard saying, "Remember."*
 
-The black fades back to where we were before.
+*The black fades back to where we were before.*
 
-**GUIDE CHARACTER**
-...eggs got cold and you don't even care! / ...what are you- Are you good?
+**GRACE**
+...eggs got cold and you don't even care! / ...what are you- {w} Are you good?
 
 **CONNOR**
-I-I'm fine. / Just... got up too quickly, I think.
+I-I'm fine. Just... got up too quickly, I think.
 
-**GUIDE CHARACTER**
+**GRACE**
 Well, then, did you hear anything I just said?
 
 **CONNOR**
@@ -57,20 +57,20 @@ You were talking about...
 ### **CHOICE**
 #### [Eggs]
 
-**GUIDE CHARACTER**
+**GRACE**
 ...I'm baffled that *that's* what you're focusing on. / It's not about the eggs, Connor.
 
 #### [My attitude]
 
-**GUIDE CHARACTER**
+**GRACE**
 Oh, so you can listen, and you've just been purposefully not doing so for the last few days?
 
 #### [Space]
 
-**GUIDE CHARACTER**
+**GRACE**
 It's always about space with you. Is that what you've been daydreaming about?
 
 #### CHOICE END
 
-**GUIDE CHARACTER (CONT'D)**
+**GRACE (CONT'D)**
 *sighs* Well, it doesn't matter. The point is, you really have got to lock in, man. / Your new job starts tomorrow and you're spacing out on me every few seconds!
