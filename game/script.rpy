@@ -11,16 +11,16 @@ label start:
     
     "(Grace begins to speak, but the sound of her voice is drowned out by a ringing in my ears.)"
 
-    window hide
+    window hide None
     show black zorder 100 with dissolve
 
-    centered "{size=+40}REMEMBER." with dissolve
+    centered "{cps=0}{size=+40}{b}REMEMBER." with dissolve
 
     show grace annoyed
     hide black with dissolve
     window auto
 
-    g "...eggs got cold and you don't even care!"
+    g "{cps=50}...eggs got cold and you don't even care!"
 
     g neutral "...what are you-{w} Are you good?"
     
@@ -29,7 +29,7 @@ label start:
     g "Well, then, did you hear anything I just said?"
 
     menu:
-        c "You were talking about..."
+        c "{cps=0}You were talking about..."
 
         "Eggs":
             c "Eggs! You were talking about eggs."
@@ -46,4 +46,4 @@ label start:
 
     g "Your new job starts tomorrow and you're spacing out on me every few seconds."
 
-    g "You've barely been out of bed since you graduated from uni and came here. It's ridiculous!"
+    g annoyed "You've barely been out of bed since you graduated from uni and came here. It's ridiculous!"
