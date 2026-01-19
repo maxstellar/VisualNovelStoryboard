@@ -5,8 +5,8 @@ define g = Character("Grace", image="grace")
 label start:
     # cutscene goes here
 
-    scene bedroom_placeholder zorder 1
-    show grace neutral zorder 2 at center
+    scene bedroom_placeholder
+    show grace neutral at center
     c happy "Well, good morning to you too, Grace."
     
     "(Grace begins to speak, but the sound of her voice is drowned out by a ringing in my ears.)"
@@ -20,7 +20,7 @@ label start:
     hide black with dissolve
     window auto
 
-    g "{cps=50}...eggs got cold and you don't even care!"
+    g annoyed "{cps=50}...eggs got cold and you don't even care!"
 
     g neutral "...what are you-{w} Are you good?"
     
@@ -42,8 +42,18 @@ label start:
             c "You were talking about... outer space?"
             g annoyed "It's always about space with you. Is that what you've been daydreaming about?"
 
-    g neutral "*sighs* Well, it doesn't matter. The point is, you really have got to lock in, man."
+    g neutral "*sighs* Well, it doesn't matter. The point is, you have really got to lock in, man."
 
-    g "Your new job starts tomorrow and you're spacing out on me every few seconds."
+    g "Your new job starts tomorrow and you're... {i}spacing out{/i} on me every few seconds."
 
-    g annoyed "You've barely been out of bed since you graduated from uni and came here. It's ridiculous!"
+    g tired "Staying in bed all day isn't doing you any favors."
+
+    g neutral "It's been like this since you got back from uni. Why don't you go out and... do something?"
+
+    c embarassed "I don't know... like what?"
+
+    g "Well, why don't you start with helping me clean the attic? I'm trying to put some of the stuff we unpacked away."
+
+    c "Fine."
+
+    # transition to attic
