@@ -8,7 +8,7 @@ transform same_transform(old, new):
 
 define config.side_image_same_transform = same_transform
 
-image grace neutral = "keith_placeholder.jpg"
+image grace neutral = "keith_placeholder.webp"
 
 image side connor happy = "connor_placeholder.png"
 
@@ -27,9 +27,11 @@ label start:
 
     centered "{size=+40}REMEMBER." with dissolve
 
-    scene bedroom_placeholder with dissolve
-
     show grace neutral at center with dissolve
 
+    scene bedroom_placeholder with dissolve
 
+    g neutral "...eggs got cold and you don't even care!"
+
+    g "...what are you-{w} Are you good?"
     
