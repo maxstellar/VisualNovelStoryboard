@@ -1,7 +1,7 @@
 ﻿# characters
 define c = Character("Connor", image="connor")
 define g = Character("Grace", image="grace")
-
+ 
 label start:
     # cutscene goes here
 

@@ -19,7 +19,9 @@ Connor tries to subtly drop the news to Lily on the day he is supposed to leave,
 Connor is about to leave, and the two see each other for the last time. They look at each other from afar, and run towards each other, with open arms, forgiving.
 
 # Future Story
-**THIS IS WHAT WE NEED TO WORK ON!**
+He remembers!
+Connor rushes through the town, seeing all of the people he met greet him as he runs by (depending on his relationship with them from the story). He has to get back to their meeting spot.
+Lily sits there, reminiscing. "I was hoping you would remember."
 
 # Areas
 ## Template
@@ -36,4 +38,4 @@ Connor is about to leave, and the two see each other for the last time. They loo
 - What sorts of objects can we find here?
   - Boxes, rolled-up posters, old toys, school projects (solar system diorama), box of old polaroids
 - Will the objects serve any narrative purpose?
-  - Foreshadowing + details of Connor's youth. 
+  - Foreshadowing + details of Connor's youth.
