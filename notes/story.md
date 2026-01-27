@@ -23,7 +23,19 @@ He remembers!
 Connor rushes through the town, seeing all of the people he met greet him as he runs by (depending on his relationship with them from the story). He has to get back to their meeting spot.
 Lily sits there, reminiscing. "I was hoping you would remember."
 
-# Areas
+# Locations
+## Potential Areas/Locations
+- Empty lot / hill
+  - Past
+    - Connor comes to set up a telescope and observe stars
+    - Lily stumbles upon him by accident as this is her secret spot where she sits and thinks, staring at the stars.
+    - When Lily expresses interest in space with a lack of confidence, Connor assumes she is unknowledgeable about the topic, but he is sorely mistaken.
+    - They bond over spotting different constellations with Connor's telescope (minigame)
+  - Present
+    - A polaroid from Connor's box leads him to the empty lot, where he recalls spending his nights.
+    - Set up the telescope (minigame)
+    - More?
+
 ## Template
 - What is the motivation to explore this area? (it should be narrative)
 - Who is the guide character + what is their relationship to Connor (and Lily)?
